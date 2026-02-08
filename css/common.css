@@ -1,0 +1,57 @@
+.inner {
+  max-width: 1520px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.section-title {
+  font-family: 'Juache';
+  font-weight: normal;
+}
+
+/* 제목 */
+.small-title-wrap {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: #FF8B00;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.small-title-img {
+  width: 20px;
+  height: 18px;
+  background: url(../images/pet-19.png) no-repeat center / cover;
+}
+
+.section-title {
+  font-size: 48px;
+  margin-bottom: 12px;
+}
+
+.section-sub-title {
+  font-size: 16px;
+  color: #666;
+  line-height: 120%;
+}
+
+/* 섹션 간격 */
+.section-gap {
+  padding: 120px 0;
+}
+
+/* 제목 - 콘텐츠 사이 간격 */
+.title-gap {
+  margin-bottom: 60px;
+}
+
+@media (max-width: 768px) {
+  .inner {
+    width: 90%;
+  }
+
+  .section-title {
+    font-size: 40px;
+  }
+}
