@@ -1,5 +1,13 @@
 # Project02 | 반려동물 분양·입양 랜딩페이지 (Clone Coding)
 
+## 📸 Preview
+
+| 📱 Mobile | 💻 Desktop |
+|:--:|:--:|
+| <img src="https://github.com/user-attachments/assets/bb9fcf6d-d024-4392-a6e7-1600cd5a23fa" width="100%" alt="Mobile Preview" /> | <img src="https://github.com/user-attachments/assets/a2d88ec7-77dc-4ca2-b8e2-bbad07598080" width="100%" alt="Desktop Preview" /> |
+
+---
+
 🔗 **배포 링크**  
 https://wadzuswl.github.io/project02/
 
