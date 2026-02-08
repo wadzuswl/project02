@@ -4,7 +4,7 @@
 
 | 📱 Mobile | 💻 Desktop |
 |:--:|:--:|
-| <img src="https://github.com/user-attachments/assets/bb9fcf6d-d024-4392-a6e7-1600cd5a23fa" width="100%" alt="Mobile Preview" /> | <img src="https://github.com/user-attachments/assets/a2d88ec7-77dc-4ca2-b8e2-bbad07598080" width="100%" alt="Desktop Preview" /> |
+| <img src="https://github.com/user-attachments/assets/bb9fcf6d-d024-4392-a6e7-1600cd5a23fa" alt="Mobile Preview" style="height: 500px; object-fit: cover; object-position: top;" /> | <img src="https://github.com/user-attachments/assets/a2d88ec7-77dc-4ca2-b8e2-bbad07598080" alt="Desktop Preview" style="height: 500px; object-fit: contain;" /> |
 
 ---
 
